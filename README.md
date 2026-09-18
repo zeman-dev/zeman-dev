@@ -43,8 +43,3 @@ Fullstack developer with a Bachelor's degree in Computer Science (Kharkiv Polyte
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeman-dev&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeman-dev&layout=compact&theme=default&hide_border=tru
