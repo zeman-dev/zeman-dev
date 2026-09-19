@@ -39,7 +39,7 @@ Fullstack developer with a Bachelor's degree in Computer Science (Kharkiv Polyte
 
 ## 📫 How to reach me
 
-[LinkedIn](www.linkedin.com/in/valentyn-ziomenko-84551b29a) | [Telegram](https://t.me/@zemanUA) | [Email](mailto:ziomenkow@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/valentyn-ziomenko/) | [Telegram](https://t.me/@zemanUA) | [Email](mailto:ziomenkow@gmail.com)
 
 ---
 
