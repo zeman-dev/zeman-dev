@@ -30,9 +30,9 @@ Fullstack developer with a Bachelor's degree in Computer Science (Kharkiv Polyte
 - **[NoteHub](https://github.com/zeman-dev/09-auth)** — a notes application built with **Next.js**. Features cookie-based authentication with a proxy layer forwarding credentials to the API, dynamic routing, and per-page metadata with OpenGraph tags for link previews.
 
 ## 🗣️ Languages
-
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Russian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![Swedish](https://img.shields.io/badge/Swedish-A2-lightgrey?style=flat-square)
 
 ---
