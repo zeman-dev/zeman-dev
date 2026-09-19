@@ -32,7 +32,7 @@ Fullstack developer with a Bachelor's degree in Computer Science (Kharkiv Polyte
 ## 🗣️ Languages
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-![Russian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Russian](https://img.shields.io/badge/Russian-Native-green?style=flat-square)
 ![Swedish](https://img.shields.io/badge/Swedish-A2-lightgrey?style=flat-square)
 
 ---
